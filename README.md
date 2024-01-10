@@ -1,11 +1,10 @@
 # Overview
-
-This repository contains two Jupyter Notebook files that demonstrate the use of the Zephyr-7b-alpha model from Hugging Face for text classification tasks.
+This repository contains two Jupyter Notebook files that demonstrate the use of the Zephyr-7b-alpha model and the neuralChat model from Hugging Face for text classification tasks.
 
 ## Files in this Repository
 
 - **Example_FirstStep_zephyr-7b-alpha.ipynb**: A beginner-friendly guide to getting started with the Zephyr-7b-alpha model.
-- **Example_tweets_sentiment_zephyr-7b-alpha.ipynb**: An advanced example showcasing more complex uses of the model, including sentiment analysis on tweets, optimized for Google Colab's A100 GPU.
+- **Example20231211_tweets_sentiment_neuralChat.ipynb**: An advanced example showcasing more complex uses of the model, including sentiment analysis on tweets, optimized for Google Colab's A100 GPU.
 
 ### Example_FirstStep_zephyr-7b-alpha.ipynb
 
@@ -19,6 +18,7 @@ This repository contains two Jupyter Notebook files that demonstrate the use of 
 - **Functions for Text Classification**: Includes functions for zero-shot and one-shot text classification, demonstrating the versatility of the model.
 - **Example Runs**: Provides example runs for both zero-shot and few-shot text classification using the model.
 
-### Example_tweets_sentiment_zephyr-7b-alpha.ipynb
+### Example20231211_tweets_sentiment_neuralChat.ipynb
 
-This notebook delves deeper into using the Zephyr-7b-alpha model for sentiment analysis of tweets. It is optimized for Google Colab's A100 GPU.
+This notebook delves deeper into using the neuralChat model for sentiment analysis of tweets. It is optimized for Google Colab's A100 GPU.
+
