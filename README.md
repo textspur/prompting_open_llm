@@ -22,3 +22,6 @@ This repository contains two Jupyter Notebook files that demonstrate the use of 
 
 This notebook delves deeper into using the neuralChat model for sentiment analysis of tweets. It is optimized for Google Colab's A100 GPU.
 
+- Link: https://docs.google.com/presentation/d/1jCLwH9vInX6RDy00t7HISQPvLXkPebms-qu_ZyCrqDM/edit?usp=sharing
+- 
+
